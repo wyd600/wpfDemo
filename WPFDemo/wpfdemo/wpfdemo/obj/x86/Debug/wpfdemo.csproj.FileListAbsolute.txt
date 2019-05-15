@@ -1,0 +1,13 @@
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\bin\Debug\wpfdemo.exe
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\bin\Debug\wpfdemo.pdb
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\wpfdemo.csprojAssemblyReference.cache
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\MainWindow.baml
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\MainWindow.g.cs
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\App.g.cs
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\wpfdemo_MarkupCompile.cache
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\wpfdemo.g.resources
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\wpfdemo.Properties.Resources.resources
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\wpfdemo.csproj.GenerateResource.cache
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\wpfdemo.csproj.CoreCompileInputs.cache
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\wpfdemo.exe
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\wpfdemo\obj\x86\Debug\wpfdemo.pdb

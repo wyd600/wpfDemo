@@ -1,0 +1,16 @@
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\bin\Debug\demo1.exe.config
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\bin\Debug\demo1.exe
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\bin\Debug\demo1.pdb
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\demo1.csprojAssemblyReference.cache
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\MainWindow.g.cs
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\App.g.cs
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\demo1_MarkupCompile.cache
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\demo1_MarkupCompile.lref
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\MainWindow.baml
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\demo1.g.resources
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\demo1.Properties.Resources.resources
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\demo1.csproj.GenerateResource.cache
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\demo1.csproj.CoreCompileInputs.cache
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\demo1.exe
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\demo1.pdb
+F:\c#学习笔记\gitDic\WPFProject\WPFDemo\wpfdemo\demo1\obj\Debug\GeneratedInternalTypeHelper.g.cs
